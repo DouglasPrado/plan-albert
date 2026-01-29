@@ -211,6 +211,140 @@
 
 ---
 
+## Todos os Itens Agrupados por Tipo
+
+### AUTOMATIONS (Automações)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| Automações - 1000 | 1.000 | 26 |
+| 800 Automações | 800 | 16 |
+| Automações - 350 | 350 | 8 |
+| 1500 Automações | 1.500 | 6 |
+| 550 automações | 550 | 2 |
+| Automações - 410 | 410 | 1 |
+| Automações - 450 | 450 | 1 |
+| 700 automações | 700 | 1 |
+| 1050 automações | 1.050 | 1 |
+| Automações - 300 | 300 | 1 |
+| 1600 Automações | 1.600 | 1 |
+| Automações - 2100 | 2.100 | 1 |
+
+### BI_ACCESS (Acesso ao BI)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| Acesso ao BI Rede - Profissional | boolean | 27 |
+| Acesso ao BI - Profissional | boolean | 24 |
+| Acesso ao BI - Essencial | boolean | 12 |
+| Acesso ao BI Rede - Essencial | boolean | 3 |
+| Acesso ao BI - Avançado | boolean | 3 |
+| Acesso ao BI Rede - Avançado | boolean | 1 |
+
+### LIMIT_PROMOTIONS (Limite de Promoções)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| Limite de promoções: 1 | 1 | 28 |
+| Limite de promoções: 2 | 2 | 28 |
+| Limite de promoções: 3 | 3 | 8 |
+| 06 promoções | 6 | 1 |
+| promoções ilimitadas | ilimitado | 1 |
+| 12 Promoções | 12 | 1 |
+
+### COUPONS (Cupons)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| Cupons ilimitados | ilimitado | 67 |
+
+### RECOVERY_CASHBACK (Recuperação de Cashback)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| recuperar cashback | boolean | 67 |
+
+### AI_FREE (IA Gratuita)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| I.A - Grátis | 6 interações | 65 |
+
+### AI_PREMIUM (IA Premium)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| IA Premium | 100 interações | 65 |
+
+### PROMOTION_LOCAL (Promoção Local)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| Promoção QRCode | boolean | 64 |
+
+### REPORT_ACCESS (Acesso a Relatórios)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| Reports | boolean | 60 |
+
+### DEFAULT (Itens Padrão)
+
+| Item | Valor | Planos |
+|------|-------|--------|
+| material de apoio em formato digital. | 1 | 66 |
+| check in | 1 | 66 |
+| login de parceiro | 1 | 66 |
+| pré-cadastro | 1 | 66 |
+| gatilho de check in | 1 | 60 |
+| gatilho de pré-cadastro | 1 | 60 |
+| gatilho de promoções | 1 | 60 |
+| dashboard completo | 1 | 60 |
+| completos | 1 | 31 |
+| básicos | 1 | 28 |
+| 01 banner no app albert | 1 | 27 |
+| 02 banners no app albert | 1 | 27 |
+| 03 banners no app albert | 1 | 8 |
+| 100 disparos de sms | 1 | 6 |
+| 2.000 disparos de e-mail | 1 | 6 |
+| 200 disparos de whatsapp | 1 | 6 |
+| 10 a 12 mil impressões no instagram | 1 | 2 |
+
+---
+
+## Inconsistências de Nomenclatura
+
+### Automações (12 variações para o mesmo conceito)
+
+| Padrão | Exemplos |
+|--------|----------|
+| "Automações - X" | Automações - 1000, Automações - 350, Automações - 410 |
+| "X Automações" | 800 Automações, 1500 Automações, 1600 Automações |
+| "X automações" | 550 automações, 700 automações, 1050 automações |
+
+**Sugestão:** Padronizar para "Automações - X"
+
+### Acesso ao BI (6 variações)
+
+| Tipo | Individual | Rede |
+|------|------------|------|
+| Essencial | Acesso ao BI - Essencial | Acesso ao BI Rede - Essencial |
+| Avançado | Acesso ao BI - Avançado | Acesso ao BI Rede - Avançado |
+| Profissional | Acesso ao BI - Profissional | Acesso ao BI Rede - Profissional |
+
+### Limite de Promoções (6 variações)
+
+| Padrão | Exemplos |
+|--------|----------|
+| "Limite de promoções: X" | Limite de promoções: 1, 2, 3 |
+| "X promoções" | 06 promoções |
+| "X Promoções" | 12 Promoções |
+| Especial | promoções ilimitadas |
+
+**Sugestão:** Padronizar para "Limite de promoções: X" ou "promoções ilimitadas"
+
+---
+
 ## Insights
 
 1. **Maior concentração:** Faixa de R$ 200-300 (27% dos planos)
