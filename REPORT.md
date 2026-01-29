@@ -8,9 +8,9 @@
 
 | Métrica | Valor |
 |---------|-------|
-| Total de planos ativos | **67** |
-| Preço médio | R$ 474,47 |
-| Preço mínimo | R$ 10,00 |
+| Total de planos ativos | **66** |
+| Preço médio | R$ 481,51 |
+| Preço mínimo | R$ 199,90 |
 | Preço máximo | R$ 1.479,60 |
 
 ---
@@ -19,10 +19,10 @@
 
 | Categoria | Quantidade | % |
 |-----------|------------|---|
-| Avançado | 21 | 31,3% |
-| Personalizados | 25 | 37,3% |
-| Essencial | 15 | 22,4% |
-| Profissional | 6 | 9,0% |
+| Avançado | 21 | 31,8% |
+| Personalizados | 24 | 36,4% |
+| Essencial | 15 | 22,7% |
+| Profissional | 6 | 9,1% |
 
 ---
 
@@ -30,11 +30,11 @@
 
 | Faixa | Quantidade | % |
 |-------|------------|---|
-| Até R$ 200 | 9 | 13,4% |
-| R$ 200 - R$ 300 | 18 | 26,9% |
-| R$ 300 - R$ 400 | 15 | 22,4% |
-| R$ 400 - R$ 700 | 14 | 20,9% |
-| Acima de R$ 700 | 11 | 16,4% |
+| Até R$ 200 | 8 | 12,1% |
+| R$ 200 - R$ 300 | 18 | 27,3% |
+| R$ 300 - R$ 400 | 15 | 22,7% |
+| R$ 400 - R$ 700 | 14 | 21,2% |
+| Acima de R$ 700 | 11 | 16,7% |
 
 ---
 
@@ -102,7 +102,6 @@
 
 | Plano | Preço |
 |-------|-------|
-| PlanoRede_AlbertEmpanadas | R$ 10,00 |
 | AssisTech_EP_M | R$ 199,90 |
 | BellaMake_EP350 | R$ 199,90 |
 | Hashi_EP_M | R$ 199,90 |
@@ -347,11 +346,11 @@
 
 ## Insights
 
-1. **Maior concentração:** Faixa de R$ 200-300 (27% dos planos)
-2. **Planos de Rede:** Representam quase metade do catálogo (28 planos / 41,8%)
-3. **Personalizados:** 25 planos criados para clientes específicos
+1. **Maior concentração:** Faixa de R$ 200-300 (27,3% dos planos)
+2. **Planos de Rede:** Representam quase metade do catálogo (28 planos / 42,4%)
+3. **Personalizados:** 24 planos criados para clientes específicos
 4. **Melhor custo-benefício em automações:** "Ipê Papelaria" com 1.000 automações por R$ 220
 5. **Plano mais caro:** AvancadoDash_Rede_Sunpeak (R$ 1.479,60)
-6. **Plano mais barato:** PlanoRede_AlbertEmpanadas (R$ 10,00)
+6. **Plano mais barato:** 8 planos a R$ 199,90 (AssisTech, BellaMake, Hashi, etc.)
 7. **Itens universais:** Cupons ilimitados e recuperar cashback estão em 100% dos planos
 8. **IA:** 97% dos planos incluem IA (gratuita + premium)
