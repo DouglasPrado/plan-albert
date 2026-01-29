@@ -130,6 +130,87 @@
 
 ---
 
+## Ranking de Itens Mais Utilizados
+
+### Top 20 - Itens Mais Populares
+
+| # | Item | Tipo | Planos | % |
+|---|------|------|--------|---|
+| 1 | Cupons ilimitados | coupons | 67 | 100% |
+| 2 | recuperar cashback | recovery_cashback | 67 | 100% |
+| 3 | material de apoio em formato digital | default | 66 | 98,5% |
+| 4 | check in | default | 66 | 98,5% |
+| 5 | login de parceiro | default | 66 | 98,5% |
+| 6 | pré-cadastro | default | 66 | 98,5% |
+| 7 | I.A - Grátis | ai_free | 65 | 97% |
+| 8 | IA Premium | ai_premium | 65 | 97% |
+| 9 | Promoção QRCode | promotion_local | 64 | 95,5% |
+| 10 | gatilho de check in | default | 60 | 89,6% |
+| 11 | gatilho de pré-cadastro | default | 60 | 89,6% |
+| 12 | gatilho de promoções | default | 60 | 89,6% |
+| 13 | dashboard completo | default | 60 | 89,6% |
+| 14 | Reports | report_access | 60 | 89,6% |
+| 15 | completos | default | 31 | 46,3% |
+| 16 | Limite de promoções: 1 | limit_promotions | 28 | 41,8% |
+| 17 | básicos | default | 28 | 41,8% |
+| 18 | Limite de promoções: 2 | limit_promotions | 28 | 41,8% |
+| 19 | Acesso ao BI Rede - Profissional | bi_access | 27 | 40,3% |
+| 20 | 01 banner no app albert | default | 27 | 40,3% |
+
+---
+
+### Automações Disponíveis
+
+| Item | Qtd Automações | Planos |
+|------|----------------|--------|
+| Automações - 1000 | 1.000 | 26 |
+| 800 Automações | 800 | 16 |
+| Automações - 350 | 350 | 8 |
+| 1500 Automações | 1.500 | 6 |
+| 550 automações | 550 | 2 |
+| Automações - 2100 | 2.100 | 1 |
+| 1600 Automações | 1.600 | 1 |
+| 1050 automações | 1.050 | 1 |
+| 700 automações | 700 | 1 |
+| Automações - 450 | 450 | 1 |
+| Automações - 410 | 410 | 1 |
+| Automações - 300 | 300 | 1 |
+
+---
+
+### Resumo por Tipo de Item
+
+| Tipo | Qtd Itens | Item Mais Popular |
+|------|-----------|-------------------|
+| default | 17 | material de apoio (66 planos) |
+| automations | 12 | Automações - 1000 (26 planos) |
+| limit_promotions | 6 | Limite de promoções: 1 (28 planos) |
+| bi_access | 6 | Acesso ao BI Rede - Profissional (27 planos) |
+| coupons | 1 | Cupons ilimitados (67 planos) |
+| recovery_cashback | 1 | recuperar cashback (67 planos) |
+| ai_free | 1 | I.A - Grátis (65 planos) |
+| ai_premium | 1 | IA Premium (65 planos) |
+| promotion_local | 1 | Promoção QRCode (64 planos) |
+| report_access | 1 | Reports (60 planos) |
+
+---
+
+### Itens Presentes em TODOS os Planos
+
+- Cupons ilimitados (coupons)
+- recuperar cashback (recovery_cashback)
+
+### Itens Raros (menos de 5 planos)
+
+- Acesso ao BI Rede - Essencial (3 planos)
+- Acesso ao BI - Avançado (3 planos)
+- 550 automações (2 planos)
+- 10 a 12 mil impressões no instagram (2 planos)
+- Automações - 410, 450, 300, 700, 1050, 1600, 2100 (1 plano cada)
+- 06 promoções, 12 Promoções, promoções ilimitadas (1 plano cada)
+
+---
+
 ## Insights
 
 1. **Maior concentração:** Faixa de R$ 200-300 (27% dos planos)
@@ -138,3 +219,5 @@
 4. **Melhor custo-benefício em automações:** "Ipê Papelaria" com 1.000 automações por R$ 220
 5. **Plano mais caro:** AvancadoDash_Rede_Sunpeak (R$ 1.479,60)
 6. **Plano mais barato:** PlanoRede_AlbertEmpanadas (R$ 10,00)
+7. **Itens universais:** Cupons ilimitados e recuperar cashback estão em 100% dos planos
+8. **IA:** 97% dos planos incluem IA (gratuita + premium)
